@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a = 50, b=60, c;
+    int a = 50, b = 60, c;
 
     c = a + b;
 
